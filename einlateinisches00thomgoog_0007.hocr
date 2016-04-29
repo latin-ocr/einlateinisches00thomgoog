@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./einlateinisches00thomgoog_0007.png"; bbox 0 0 3292 5342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1344 772 1555 923">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1344 772 1555 923">
+     <span class='ocr_line' id='line_1_1' title="bbox 1344 772 1555 923; baseline -0.019 1"><span class='ocrx_word' id='word_1_1' title='bbox 1344 772 1347 777; x_wconf 63' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1404 841 1555 923; x_wconf 78' lang='lat' dir='ltr'>Ein</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 393 1177 2589 1365">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 393 1177 2597 1377">
+     <span class='ocr_line' id='line_1_2' title="bbox 393 1177 2589 1365; baseline 0.026 -73"><span class='ocrx_word' id='word_1_3' title='bbox 393 1186 1640 1365; x_wconf 55' lang='lat' dir='ltr'> sseinissches</span> <span class='ocrx_word' id='word_1_4' title='bbox 1771 1177 2589 1349; x_wconf 62' lang='lat' dir='ltr'>Glosssat</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1028 1582 1951 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1028 1537 1951 1673">
+     <span class='ocr_line' id='line_1_3' title="bbox 1028 1582 1951 1673; baseline -0.004 1"><span class='ocrx_word' id='word_1_5' title='bbox 1028 1593 1168 1673; x_wconf 68' lang='lat' dir='ltr'>defi</span> <span class='ocrx_word' id='word_1_6' title='bbox 1236 1589 1312 1673; x_wconf 77' lang='lat'>9.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1380 1585 1432 1669; x_wconf 88' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1432 1582 1951 1669; x_wconf 61' lang='lat' dir='ltr'><strong>abt-hundam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 696 1962 2297 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 696 1962 2297 2088">
+     <span class='ocr_line' id='line_1_4' title="bbox 696 1962 2297 2088; baseline -0.006 -6"><span class='ocrx_word' id='word_1_9' title='bbox 696 2025 880 2088; x_wconf 60' lang='lat' dir='ltr'>aua</span> <span class='ocrx_word' id='word_1_10' title='bbox 940 1962 1312 2077; x_wconf 60' lang='lat' dir='ltr'>Obdex</span> <span class='ocrx_word' id='word_1_11' title='bbox 1372 1993 1544 2077; x_wconf 69' lang='lat' dir='ltr'>lat.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1602 1993 1905 2077; x_wconf 69' lang='lat' dir='ltr'>Mon.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1961 1987 2297 2073; x_wconf 63' lang='lat'>3210</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1240 2449 1765 2521">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1240 2449 1765 2521">
+     <span class='ocr_line' id='line_1_5' title="bbox 1240 2449 1765 2521; baseline 0 -16"><span class='ocrx_word' id='word_1_14' title='bbox 1240 2449 1765 2521; x_wconf 62' lang='lat' dir='ltr'>herautgugehfln</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1152 2821 1937 2925">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1080 2821 1937 2925">
+     <span class='ocr_line' id='line_1_6' title="bbox 1152 2821 1937 2925; baseline -0.009 -32.672"><span class='ocrx_word' id='word_1_15' title='bbox 1152 2841 1355 2909; x_wconf 61' lang='lat' dir='ltr'>flur-g</span> <span class='ocrx_word' id='word_1_16' title='bbox 1408 2825 1496 2889; x_wconf 70' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1551 2821 1937 2925; x_wconf 55' lang='lat' dir='ltr'>fghnmafl.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 534 3957 2473 4219">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 534 3957 2473 4219">
+     <span class='ocr_line' id='line_1_7' title="bbox 1219 3957 1725 4061; baseline -0.012 1"><span class='ocrx_word' id='word_1_18' title='bbox 1219 3957 1268 4013; x_wconf 68' lang='lat'>‘²</span> <span class='ocrx_word' id='word_1_19' title='bbox 1305 3982 1725 4061; x_wconf 66' lang='lat' dir='ltr'>MUNUHEN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 534 4101 2473 4219; baseline -0.009 -20"><span class='ocrx_word' id='word_1_20' title='bbox 534 4137 1134 4219; x_wconf 48' lang='lat' dir='ltr'>,ggtatleminnhe</span> <span class='ocrx_word' id='word_1_21' title='bbox 1188 4101 1829 4189; x_wconf 59' lang='lat' dir='ltr'>Bunhdrunkflrsai</span> <span class='ocrx_word' id='word_1_22' title='bbox 1881 4148 2013 4185; x_wconf 64' lang='lat' dir='ltr'>*sn-:n</span> <span class='ocrx_word' id='word_1_23' title='bbox 2065 4129 2125 4186; x_wconf 69' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_24' title='bbox 2177 4125 2473 4185; x_wconf 59' lang='lat' dir='ltr'>‘Sin-auh.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 12 12 3282 5330">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 12 12 3282 5330">
+     <span class='ocr_line' id='line_1_9' title="bbox 12 12 3282 5330; baseline 0 0"><span class='ocrx_word' id='word_1_25' title='bbox 12 12 3282 5330; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
